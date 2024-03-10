@@ -45,5 +45,4 @@ To use this project, follow these steps:
     GET CUSTOM /add 2 4
     ```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
